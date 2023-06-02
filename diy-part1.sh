@@ -20,5 +20,5 @@
 
 wget https://github.com/vernesong/OpenClash/archive/master.zip
 unzip master.zip
-cp -r OpenClash-master/luci-app-openclash openwrt/package
+cp -r OpenClash-master/luci-app-openclash openwrt/package/
 rm -fr OpenClash-master
